@@ -1,12 +1,13 @@
 {
-  "name": "react-redux-registration-login-example",
+  "name": "project-3",
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/cornflourblue/react-redux-registration-login-example.git"
+    "url": "https://github.com/fk798/Project-3"
   },
   "license": "MIT",
   "scripts": {
+    "heroku-prebuild": "npm install --dev",
     "start": "webpack-dev-server --open"
   },
   "dependencies": {
